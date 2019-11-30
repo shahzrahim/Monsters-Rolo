@@ -11,7 +11,7 @@ class App extends Component {
     this.state = {
       monsters: [],
       searchField: "",
-      title: "Monsters Rolodex"
+      title: "Shazi's Monsters Rolodex"
     };
   }
 
